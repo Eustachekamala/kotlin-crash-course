@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6a1bce2-9f3b-411f-b2ce-d5add1e57747" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/crash-couse/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crash-couse/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/crash-couse">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="crash-couse" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eustachekamala&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Eustachekamala/kotlin-crash-course.git&quot;,
+    &quot;accountId&quot;: &quot;61d82d50-0a1b-4652-8dff-75f7416ace36&quot;
+  }
+}</component>
+  <component name="KmpPackageLockUpdaterState">{
+  &quot;jsModulesKotlinGradlePluginVersion&quot;: {},
+  &quot;wasmModulesKotlinGradlePluginVersion&quot;: {}
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.573137478340142E-90" />
+      <entry key="MS500" value="1.208071386563295E-18" />
+      <entry key="S2" value="3.3153024114415305E-5" />
+      <entry key="S5" value="0.01615136857244286" />
+      <entry key="S10" value="0.1271778274999494" />
+      <entry key="S30" value="0.6126467656000169" />
+      <entry key="S60" value="1.3698390991154314" />
+      <entry key="M2" value="2.466495620055076" />
+      <entry key="M5" value="3.7224460650484956" />
+      <entry key="M10" value="4.306093557858508" />
+      <entry key="M15" value="4.524153416062972" />
+      <entry key="M30" value="4.755188646901474" />
+      <entry key="H1" value="4.875820349838563" />
+      <entry key="H2" value="4.937460013839894" />
+      <entry key="H4" value="4.968616622138249" />
+      <entry key="D1" value="4.994753616937619" />
+      <entry key="W1" value="4.9992501283297175" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000274010192" />
+      <entry key="S10" value="1.0001966720791693" />
+      <entry key="S30" value="1.0871574322129915" />
+      <entry key="S60" value="1.4141699600852085" />
+      <entry key="M2" value="1.9082799145496505" />
+      <entry key="M5" value="2.457782706910105" />
+      <entry key="M10" value="2.707362935595794" />
+      <entry key="M15" value="2.799779626655308" />
+      <entry key="M30" value="2.8972331889930985" />
+      <entry key="H1" value="2.947934578271889" />
+      <entry key="H2" value="2.973794499697746" />
+      <entry key="H4" value="2.986853763445156" />
+      <entry key="D1" value="2.99780289610446" />
+      <entry key="W1" value="2.9996859791742496" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7996450406385507E-4" />
+      <entry key="MS500" value="0.1782532146705176" />
+      <entry key="S2" value="0.6498013778524088" />
+      <entry key="S5" value="0.8574898785731937" />
+      <entry key="S10" value="1.0437047300255986" />
+      <entry key="S30" value="1.6624632355018685" />
+      <entry key="S60" value="2.7484490453266304" />
+      <entry key="M2" value="4.343384317631698" />
+      <entry key="M5" value="6.161347318170123" />
+      <entry key="M10" value="7.0025462660682685" />
+      <entry key="M15" value="7.316293875002142" />
+      <entry key="M30" value="7.648408650894355" />
+      <entry key="H1" value="7.821697818641168" />
+      <entry key="H2" value="7.910213055939615" />
+      <entry key="H4" value="7.954946396285631" />
+      <entry key="D1" value="7.992468725665789" />
+      <entry key="W1" value="7.998923555248072" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KUnQ9IrAYKjOEyfI4kMczh24CD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CidrDebugProfileConversion": "true",
+    "Gradle.Configure Daemon JVM Criteria.executor": "Run",
+    "Gradle.crash-couse [:com.eustache.MainKt.main()].executor": "Run",
+    "GradleDaemonJvmCriteriaMigrationNotification.isNotificationDisabled": "true",
+    "Kotlin.MainKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHELLCHECK.PATH": "/home/eustache/.local/share/JetBrains/IntelliJIdea2026.2/Shell Script/shellcheck",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/eustache/Sofware Engineer/FlutterApps/Car_Marketplace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/eustache/Sofware Engineer/Kotlin/kotlin-crash-course/ArrayList/src/main/kotlin/Main.kt",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Spring Boot" factoryName="Spring Boot">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.kt" type="JetRunConfigurationType" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-24.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="kotlin-crash-course" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" singleton="false">
+      <module name="kotlin-crash-course" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kotlin-crash-course" />
+      <shortenClasspath name="NONE" />
+      <option name="filePath" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6a1bce2-9f3b-411f-b2ce-d5add1e57747" name="Changes" comment="" />
+      <created>1791620996307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791620996307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
